@@ -27,9 +27,9 @@ var config = {
         "有个英俊潇洒": "./imgs/IMG_0115.jpg",
         "玉树临风": "./imgs/IMG_0115.jpg",
         "并且还十分爱你的老公！": "./imgs/WechatIMG237.png",
-        "此生不负相遇": "./imgs/WechatIMG237.png",
-        "未来继续同行": "./imgs/WechatIMG237.png",
-        "老婆，生日快乐！": "./imgs/WechatIMG237.png",
+        //"此生不负相遇": "./imgs/WechatIMG237.png",
+        //"未来继续同行": "./imgs/WechatIMG237.png",
+        //"老婆，生日快乐！": "./imgs/WechatIMG237.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
